@@ -1,7 +1,7 @@
 # Ride App -- React Native, Firebase
 
-### The uber-like ride-hailing app was build using React Native and Firebase.
-### Consist of two sub-apps, one for clients to book ride and another one for the drivers.
+The uber-like ride-hailing app was build using React Native and Firebase.
+Consist of two sub-apps, one for clients to book ride and another one for the drivers.
 
 ## Client
 <img src="1.jpg" width="400px" height="auto"/>
